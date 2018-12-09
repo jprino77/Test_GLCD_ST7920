@@ -2,7 +2,7 @@
 Test graficar un xbitmap en un GLCD ST7920 conectado por protocolo SPI
 # Esquema Conexion GLCD ST7920 por Protocolo SPI
 ![alt ST7920](https://github.com/jprino77/Test_GLCD_ST7920/blob/master/img/glcd-pinout.jpg)
-### Pines asociados a SPI Segun modelo de arduino
+### Pines asociados a SPI Según modelo de arduino
 | MODELO        | SS            | MOSI          | MISO          | SCK           |
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | Uno	          | 10	          | 11	          | 12	          | 13            |
