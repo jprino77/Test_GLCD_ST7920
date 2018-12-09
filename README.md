@@ -1,5 +1,5 @@
-# Test_GLCD_ST7920
-Test graficar un xbitmap en un GLCD ST7920 conectado por protocolo SPI
+# Test_GLCD_ST7920 128X64
+Test graficar un xbm en un GLCD ST7920 conectado por protocolo SPI
 # Esquema Conexion GLCD ST7920 por Protocolo SPI
 ![alt ST7920](https://github.com/jprino77/Test_GLCD_ST7920/blob/master/img/glcd-pinout.jpg)
 ### Pines asociados a SPI Según modelo de arduino
