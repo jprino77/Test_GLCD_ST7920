@@ -15,7 +15,7 @@ Test graficar un xbitmap en un GLCD ST7920 conectado por protocolo SPI
 **U8glib.h**
 
 Para utilizar esta libreria debemos importarla e inicializar el objeto u8g, el cual utilizaremos para Graficar, de la siguiente forma:
-Ejemplo para arduino 1 U8GLIB_ST7920_128X64_1X u8g(13, 11, 10); SCK= 13 MOSI= 11 RS(CS*) = 10
+Ejemplo para arduino uno **U8GLIB_ST7920_128X64_1X u8g(13, 11, 10);** SCK= 13 MOSI= 11 RS(CS*) = 10
 
 Para graficar el xbitmap (XBM)  **u8g.drawXBMP( 0, 0, u8g_logo_width, u8g_logo_height, u8g_logo_bits);** donde: 
  
